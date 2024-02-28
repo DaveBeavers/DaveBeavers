@@ -30,9 +30,7 @@ Brief description of the project.
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
-- Twitter: [Your Twitter Handle](link_to_twitter)
-- Website/Blog: [Your Website/Blog](link_to_website)
+- LinkedIn: www.linkedin.com/in/sunesty
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about energy, data science, or anything else!
 
