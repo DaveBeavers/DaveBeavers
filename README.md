@@ -1,21 +1,21 @@
-# Hi there! 👋 I'm [Your Name]
+# David McKinley Beavers
 
-🔭 I'm an experienced energy professional with a strong background in data science and analytics. My expertise lies in leveraging data-driven insights to optimize energy systems, improve efficiency, and drive sustainable solutions.
+- I'm an experienced energy professional with a strong background in data science and analytics. My expertise lies in leveraging data-driven insights to optimize energy systems, improve efficiency, and drive sustainable solutions.
 
-💼 Currently, I work as a [Your Current Position] at [Your Company/Organization], where I lead projects focused on [brief description of your current projects/initiatives].
+- Currently, I work for myself at Sunesty Energy Catalysts, where I lead projects focused on state renewable markets and programs.
 
-🌱 I'm passionate about exploring innovative technologies and methodologies in the energy sector, particularly those related to renewable energy, smart grids, and energy storage.
+- I'm passionate about exploring innovative technologies and methodologies in the energy sector, particularly those related to renewable energy, smart grids, and energy storage.
 
-👨‍💻 In addition to my professional work, I enjoy collaborating on open-source projects related to energy analytics, data visualization, and machine learning. You can find some of my projects below.
+- In addition to my professional work, I enjoy collaborating on "modern" utility rates and electrification, and competing in energy focused Kaggle competitions. You can find some of my projects below.
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Python, R
-- **Data Science & Analytics:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau
-- **Database:** SQL, MongoDB
-- **Tools & Platforms:** Jupyter Notebook, Git, GitHub, Docker
-- **Energy Sector Tools:** RETScreen, HOMER, SAM
+- **Programming Languages:** Python
+- **Data Science & Analytics:** Pandas, NumPy, Scikit-learn
+- **Data Visualization:** Matplotlib, Seaborn
+- **Database:** SQL
+- **Tools & Platforms:** Jupyter Notebook, GitHub
+- **Energy Sector Tools:** SAM, EQUEST
 
 ## 📚 Featured Projects
 
