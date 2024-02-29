@@ -22,8 +22,8 @@
 ### [Project 1 Name](link_to_project1_repo)
 Brief description of the project.
 
-### [Project 2 Name](https://app.datacamp.com/workspace/w/d2d5cc6b-8b64-434a-a772-5a55e0a6d04e)
-Brief description of the project.
+### [Understanding the Energy Market Competition](https://app.datacamp.com/workspace/w/d2d5cc6b-8b64-434a-a772-5a55e0a6d04e)
+I won a prize in this data science competition that asked for predictions of market energy pricing.
 
 ### [Project 3 Name](link_to_project3_repo)
 Brief description of the project.
