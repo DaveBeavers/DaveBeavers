@@ -19,7 +19,7 @@
 
 ## 📚 Featured Projects
 
-### [Project 1 Name](dbeavers_resume.pdf)
+### [Project 1 Name](dbeavers _resume.pdf)
 Brief description of the project.
 
 ### [Understanding the Energy Market Competition](https://app.datacamp.com/workspace/w/d2d5cc6b-8b64-434a-a772-5a55e0a6d04e)
